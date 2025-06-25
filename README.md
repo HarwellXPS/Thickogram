@@ -11,7 +11,7 @@ The original webpage no longer is accessible but the online webvpython app can b
    
 ## Comments:
   Python Version: 3.6.1<br />
-  Uses numpy and tkinter<br />
+  Uses numpy, matplotlib and tkinter<br />
   
 ## Examples of thickogram in use:
   1. https://www.researchgate.net/publication/363267368_Electronic_Characteristics_of_Ultra-Thin_Passivation_Layers_for_Silicon_Photovoltaics
