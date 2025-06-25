@@ -4,8 +4,6 @@ Created on Sun Jun 22 12:38:40 2025
 
 To do...
 1. Modify so redline plots correctly
-2. Entry for RSFs rather than the ratio hence calculate the ratio = DONE
-3. Add the reference Peter J. Cumpson, Surf. Interface Anal. 29, 403-406 (2000).
 
 @author: david
 """
