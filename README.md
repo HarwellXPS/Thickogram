@@ -1,5 +1,5 @@
 # Thickogram Calculator and Plotter
-Based on the work in Peter J. Cumpson, Surf. Interface Anal. 29, 403-406 (2000)
+Based on the work of Peter J. Cumpson, Surf. Interface Anal. 29, 403-406 (2000)
 
 ## Credits:
 This is a modification of the webvpython code as published at https://web.hallym.ac.kr/~jwlee/thickogram/, whihch was written by Prof. Jong Wan Lee (Hallym University, School of Nano Convergence Technology, Korea).<br />
